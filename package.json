@@ -1,0 +1,22 @@
+{
+  "name": "cabalyon",
+  "displayName": "Cabalyon",
+  "description": "Cabalyon",
+  "version": "0.0.1",
+  "publisher": "WeeCode",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WeeCode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WeeCode-color-theme.json"
+      }
+    ]
+  }
+}
