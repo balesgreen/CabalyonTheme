@@ -1,16 +1,20 @@
-# Cabalyon README
+# Cabalyon Theme
+## _Theme for Visual Studio Code_
 
-## Working with Markdown
+Created by Rafael Romão for the world.
+Know more:
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+- Dark theme for people who love dark themes.
+- Open Source.
+- ✨This is fantastic!✨
+## Redes sociais
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Linkedin: https://www.linkedin.com/in/rafael-rom%C3%A3o-17a9481ba/
+- Instagram: https://www.instagram.com/edevacademy
+- Twitter: https://www.twitter.com/Mark662_
+- eDevAcademy: https://www.edevacademy.com/
+- Portfolio: https://portfoliodorafael.github.io/
 
-## For more information
+> Everything is interesting; everything might be useful; everything attracts and charms a noble mind; but death is before us; mind and matter make their demands; willy-nilly we must submit and rest content as to things that time and wisdom deny us, with a glance of sympathy which is another act of our homage to the truth.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+A. D. Sertillanges - _The Intellectual Life_
